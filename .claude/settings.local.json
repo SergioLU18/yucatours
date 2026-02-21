@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/app/src/main/AndroidManifest.xml:*)",
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/app/src/main/kotlin/com/yucatours/app/MainActivity.kt:*)",
+      "Bash(__NEW_LINE_4d391a0cb17abe95__ cat)",
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/app/build.gradle:*)",
+      "Bash(__NEW_LINE_4d391a0cb17abe95__ echo \"Build files created\")",
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/build.gradle:*)",
+      "Bash(__NEW_LINE_fd4cea4e665e05c1__ cat)",
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/settings.gradle:*)",
+      "Bash(/c/Users/PC/Documents/ChichenIT/yucatours/android/gradle.properties:*)",
+      "Bash(__NEW_LINE_fd4cea4e665e05c1__ echo \"Gradle files created\")"
+    ]
+  }
+}
